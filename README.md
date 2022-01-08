@@ -1,6 +1,6 @@
-#Hack and Roll 22
+# Task Manager App for CVWO Application 2022
 
-What Yi Shiong(652A) and I(251L) have came up with at the end of a day.
+What Yi Shiong (652A) and I (251L) have came up with at the end of a day.
 
 Telegram Bot to handle tutorial/ lab class swappings.
 
